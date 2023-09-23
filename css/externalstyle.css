@@ -1,0 +1,26 @@
+body {
+    background-image: url('img/bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-nav li {
+    margin: 0px 20px 0px 20px;
+}
+
+.sub-text {
+    font-size: 25px;
+    font-weight: 100 !important;
+    color: rgb(185, 185, 185);
+}
+
+.text-gradient {
+
+    background: linear-gradient(to right, #de217b, #b437b9, #9549ea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.nav-item a {
+    color: white !important;
+}
